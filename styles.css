@@ -1,0 +1,54 @@
+ header{
+  display: flex;
+  padding: 6px;
+
+ }
+ header p{
+  width: 50%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+nav{
+  width:50%;
+  display:flex;
+  
+}
+ nav ul {
+  width: 50%;
+  display: flex;
+  list-style: none;
+  gap: 15px;
+  font-style: normal;
+  font-size: smaller;
+ }
+ nav a{
+  text-decoration: none;
+  color: black;
+ }
+ nav button{
+  margin-left:auto ;
+  width: 100px;
+  height: 30px;
+  border: none;
+  margin-top: 8px;
+  background-color: rgb(228, 255, 0);
+  gap:2px;
+
+ }
+ main img{
+ 
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 2px;
+ }
+ .vline{
+  height: 110px;
+  width: 2px;
+  background-color:rgb(211, 203, 200);
+  position: relative;
+  left:60px;
+  bottom:120px;
+ }
+ 
+  
+ 
