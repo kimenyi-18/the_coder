@@ -80,7 +80,25 @@ nav{
   color: black;
   padding: 5px 10px 5px 10px;
 }
- 
+.second{
+  margin-left:100px;
+}
+.i{
+  font-size: 30px;
+  font-weight: bold;
+
+}
+.second article{
+  display: flex;
+  gap: 45px;
+}       
+.second img{
+ width: 300px;
+ height: auto;
+}
+.second p{
+  color: rgb(108, 117, 131);
+}
 
  
   
