@@ -34,12 +34,19 @@ nav{
   gap:2px;
 
  }
- main img{
+ .first{
+  background-color:black;
+  height:382px;
+  
+ }
+ .first img{
  
     max-width: 100%;
     height: auto;
     display: block;
     border-radius: 2px;
+    opacity: 0.4;
+    
  }
  .vline{
   height: 170px;
@@ -81,7 +88,7 @@ nav{
   padding: 5px 10px 5px 10px;
 }
 .second{
-  margin-left:100px;
+  margin-left:92px;
 }
 .i{
   font-size: 30px;
@@ -93,13 +100,24 @@ nav{
   gap: 45px;
 }       
 .second img{
- width: 300px;
+ width: 340px;
  height: auto;
 }
 .second p{
   color: rgb(108, 117, 131);
 }
+.third{
+  background-color:black;
+}
+.third img{
+  max-width:100%;
+  height:auto;
+  display: block;
+  border-radius: 2px;  
+}
 
- 
+
+
   
  
+
