@@ -108,7 +108,7 @@ nav{
 }
 .third{
   background-color:black;
-  height:382px;
+  height:700px;
 }
 .third img{
   max-width:100%;
@@ -176,12 +176,26 @@ nav{
   
 }
 main {
-  display
+  display:block;
 }
-.fourth{
-
+.fourth img{
+   max-width:100%;
+  height:auto;
+  display: block;
+  border-radius: 2px;
+ 
 }
-
+.fourth h3{
+  text-align:center;
+}
+.fifth  {
+  margin-left:92px;
+}
+.fifth p{
+ font-size: 30px;
+  font-weight: bold;
+  color: rgb(108, 117, 131);  
+}
 
 
   
